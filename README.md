@@ -20,5 +20,5 @@ I am going to make a music app that plays Xylophone sounds. For every Beethoven 
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
 
-###Acknowledgements
-1-AppBrewery.com
+### Acknowledgements
+  -AppBrewery.com
